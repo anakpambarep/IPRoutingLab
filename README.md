@@ -20,7 +20,7 @@ To build this IP routing lab, you need to install [Docker Desktop for Mac or Win
 - Run the script `route_clean.sh` or `route_clean.ps1` (windows powershell)
 
 ## Configure Routers:
-> You can refer to the [Wiki](https://github.com/abazh/routing_lab/wiki) of this repository on how to configure each router.
+> You can refer to the [Wiki](https://github.com/anakpambarep/IPRoutingLab/wiki) of this repository on how to configure each router.
 
 There are 3 IGP routers, each with **ASN 100, 200, and 300**:
 To access each router configuration console, you need to run a command in your PowerShell console or terminal console:
